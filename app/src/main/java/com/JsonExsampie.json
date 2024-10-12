@@ -1,0 +1,15 @@
+{
+  "name": "Sasha",
+  "LastName": "Popov",
+  "dateOfBirth": "21.12.01",
+  "height": 80,
+  "job": {
+    "name": "Programmer",
+    "salary": 19990000,
+    "nameOfColleagues": [
+      "Fari",
+      "lena",
+      "Tjny"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bottom_navigation" type="id">batton</item>
+    <item name="img" type="id">image</item>
+    <item name="textLove" type="id">text</item>
+    <item name="yourScore" type="id">text2</item>
+    <item name="textPercentage" type="id">text3</item>
+    <item name="buttonTryAgain" type="id">text4</item>
+</resources>
